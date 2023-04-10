@@ -4,7 +4,7 @@ You have to put in your Vicky save folder. Supports only vanilla factories. If y
 <br><br>
 Downloads: <br>
 Weights - https://drive.google.com/file/d/1USOtvtMhgKehkzLyskM3kiVYS85MrUBl/view <br>
-Preinstalled(exe) version - https://drive.google.com/file/d/16-BZdydSIUoVRIpcC2GPCN2txl-wr1WW/view?usp=sharing
+Preinstalled(exe) version - https://drive.google.com/file/d/16-BZdydSIUoVRIpcC2GPCN2txl-wr1WW/view
 
 <br>
 
