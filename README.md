@@ -1,6 +1,6 @@
 # vicky2factoryAdvisor
 Neural network for Victoria 2 that tries to predict which factories will and won't be profitable in your country. Training was quite limited.
-You have to put in your Vicky save folder. Supports only vanilla factories. If you don't want to deal with the packages you can download the executable version.
+You have to put in your Vicky save folder. Only supports vanilla factories. If you don't want to deal with the packages you can download the executable version.
 <br><br>
 Downloads: <br>
 Weights - https://drive.google.com/file/d/1USOtvtMhgKehkzLyskM3kiVYS85MrUBl/view <br>
